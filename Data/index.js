@@ -1,10 +1,10 @@
 export default {
-  THEME_TYPE: "CINNABAR_THEME",
+  THEME_TYPE: "TEAL_THEME",
   HEADER_DATA: {
-    profile_name: "Nikhil Karkra",
+    profile_name: "Claire Reincastle",
     profile_designation: "Full Stack Developer",
     profile_contact: "xxxxxxx830",
-    profile_email: "youremailid@gmail.com",
+    profile_email: "claire.reinc@gmail.com",
     profile_links: [
       {
         type: "Linkedin",
@@ -17,18 +17,6 @@ export default {
         text: "github.com/karkranikhil",
         link: "https://github.com/karkranikhil",
         Icon: "fab fa-github-alt fa-fw",
-      },
-      {
-        type: "Medium",
-        text: "medium.com/@karkranikhil",
-        link: "https://medium.com/@karkranikhil",
-        Icon: "fab fa-medium-m  fa-fw",
-      },
-      {
-        type: "Dev",
-        text: "dev.to/karkranikhil",
-        link: "https://dev.to/karkranikhil",
-        Icon: "fab fa-dev fa-fw",
       },
     ],
   },

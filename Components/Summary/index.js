@@ -6,7 +6,7 @@ const getListView = KEY_POINTS =>
 const Summary = ({ HEADING, DESCRIPTION, KEY_POINTS }) => {
   return (
     <section className="curriculum-vitae-body mb-5">
-      <h2 className="curriculum-vitae-section text-uppercase font-weight-bold pb-3 mb-3">
+      <h2 className="curriculum-vitae-section-title text-uppercase font-weight-bold pb-3 mb-3">
         {HEADING}
       </h2>
       <div className="curriculum-vitae-section-content">
